@@ -1,0 +1,224 @@
+body
+{
+	background-color: #ff7f00;
+	color: #783f04;
+	font-family: "Ubuntu", "Arial";
+}
+
+a
+{
+	color: #0000ff;
+}
+
+.gruppo
+{
+    display: none;
+}
+
+.navbar-royalgames
+{
+    background-color: #fff2cc;
+    margin-bottom: 0;
+}
+
+.navbar-royalgames a
+{
+	color: #783f04;
+}
+
+.jumbotron-royalgames
+{
+	background-image: url("https://dl.dropboxusercontent.com/u/23313381/Logo/LogoSenzaScritta720.png");
+	background-repeat: no-repeat;
+	background-attachment: center 50%;
+	background-position: center;
+	background-color: #ff7f00;
+}
+
+.putin
+{
+	color: #783f04;
+}
+
+.bananachilegge
+{
+	color: #ff7f00;
+}
+
+.btn-votazione
+{
+    border-radius: 1000px;
+}
+
+.btn-votosi
+{
+    color: #00ff00;
+    background-color: #006600;
+}
+
+.btn-votono
+{
+    color: #ff0000;
+    background-color: #660000;
+}
+
+.btn-votoskip
+{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.btn.focus, .btn:focus, .btn:hover
+{
+    color: #ffffff;
+}
+
+.voto
+{
+    background-color: #fff2cc;
+    padding: 15px;
+    border-radius: 5px;
+	margin: 5px;
+}
+
+.progress
+{
+	background-color: #fff3cc;
+	background-image: none;
+	voto-shadow: none;
+}
+
+.progress-bar
+{
+	background-color: #783f04;
+	background-image: none;
+}
+
+.votato
+{
+	display: none;
+}
+
+.importante
+{
+	color: #ff0000;
+}
+
+.profile
+{
+	width: 40px;
+	height: 40px;
+}
+
+.csgorank
+{
+	height: 20px;
+}
+
+.dotammr
+{
+	background-color: #54261e;
+	color: #ffffff;
+}
+
+.dotammr-unranked
+{
+	background-color: #777777;
+	color: #ffffff;
+}
+
+.hsrank
+{
+	height: 40px;
+}
+
+.osupp
+{
+	background-color: #5757ff;
+}
+
+.starcraft
+{
+	background-color: #7f00ff;
+}
+
+.lolrank
+{
+	height: 40px;
+}
+
+.row-membri
+{
+	margin-bottom: 20px;
+}
+
+.col-md-4
+{
+	margin-bottom: 20px;
+}
+
+#membri h3
+{
+	display: inline;
+}
+
+#main
+{
+    display: block;
+}
+
+#recensioni .thumbnail
+{
+	padding: 0px;
+	border: none;
+}
+
+#recensioni img
+{
+	border-radius: 5px;
+}
+
+.gruppogiochi
+{
+	margin-top: 6px;
+}
+
+.dota .progress
+{
+	margin: 5px;
+	height: 8px;
+	background-color: #9999ff;
+}
+
+.dota .progress .progress-bar
+{
+	background-color: #0000ff;
+}
+
+.added
+{
+	margin: 5px;
+	background-color: #aaffaa;
+	color: #006600;
+}
+
+.time
+{
+	font-size: 10px;
+	padding-right: 0px;
+}
+
+.news
+{
+	margin-bottom: 10px;
+}
+
+.newssi
+{
+	color: #006600;
+}
+
+.newsno
+{
+	color: #660000;
+}
